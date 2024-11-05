@@ -6,8 +6,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/samuel-faith/Blog-preview-card)
-- Live Site URL: [Add live site URL here](https://samuel-faith.github.io/Blog-preview-card/)
+- Solution URL: [Add solution URL here](https://github.com/samuel-faith/3-column-preview-card-component-main)
+- Live Site URL: [Add live site URL here](https://samuel-faith.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
